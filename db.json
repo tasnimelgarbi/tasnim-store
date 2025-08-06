@@ -1,0 +1,107 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Emily",
+      "age": 28,
+      "gender": "female",
+      "email": "emily.johnson@x.dummyjson.com",
+      "password": "emilyspass",
+      "avatar": "https://dummyjson.com/icon/emilys/128"
+    },
+    {
+      "id": "2",
+      "name": "Michael",
+      "age": 30,
+      "gender": "male",
+      "email": "michael.williams@x.dummyjson.com",
+      "password": "michaelwpass",
+      "avatar": "https://dummyjson.com/icon/michaelw/128"
+    },
+    {
+      "id": "3",
+      "name": "Sophia",
+      "age": 35,
+      "gender": "female",
+      "email": "sophia.brown@x.dummyjson.com",
+      "password": "sophiabpass",
+      "avatar": "https://dummyjson.com/icon/sophiab/128"
+    },
+    {
+      "id": "4",
+      "name": "James",
+      "age": 40,
+      "gender": "male",
+      "email": "james.davis@x.dummyjson.com",
+      "password": "jamesdpass",
+      "avatar": "https://dummyjson.com/icon/jamesd/128"
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "title": "Essence Mascara Lash Princess",
+      "description": "Get the royal treatment with this lash princess mascara that adds volume and length without clumping. Long-lasting formula.",
+      "price": 9.99,
+      "discountPercentage": 10.48,
+      "rating": 2.56,
+      "stock": 64,
+      "brand": "Essence",
+      "category": "beauty",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/beauty/essence-mascara-lash-princess/1.webp"
+    },
+    {
+      "title": "Eyeshadow Palette with Mirror",
+      "description": "Mix and match shades with this portable eyeshadow palette. Comes with a mirror for on-the-go application.",
+      "price": 19,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/beauty/eyeshadow-palette-with-mirror/1.webp",
+      "id": "2"
+    },
+    {
+      "title": "Powder Canister",
+      "description": "Loose powder for setting your makeup. Provides a matte finish and helps control shine.",
+      "price": 16,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/beauty/powder-canister/1.webp",
+      "id": "3"
+    },
+    {
+      "id": "4",
+      "title": "Red Lipstick",
+      "description": "Bold and beautiful red lipstick that lasts all day. Smooth texture with intense color payoff.",
+      "price": 12.99,
+      "discountPercentage": 12.16,
+      "rating": 4.36,
+      "stock": 75,
+      "brand": "L'Oreal",
+      "category": "beauty",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/beauty/red-lipstick/1.webp"
+    },
+    {
+      "id": "5",
+      "title": "Red Nail Polish",
+      "description": "Glossy red nail polish for a classic look. Fast-drying and chip-resistant formula.",
+      "price": 8.99,
+      "discountPercentage": 11.44,
+      "rating": 4.32,
+      "stock": 100,
+      "brand": "OPI",
+      "category": "beauty",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/beauty/red-nail-polish/1.webp"
+    },
+    {
+      "title": "Maybelline SuperStay Lipstick",
+      "description": "High pigmented, long lasting lipstick.",
+      "price": 9,
+      "thumbnail": "https://i.makeup.ae/q/qe/qebta86itrbe.jpg",
+      "id": "6"
+    },
+    {
+      "id": "7",
+      "title": "MAC Lipstick",
+      "price": 180,
+      "description": "Creamy rich formula with high color payoff in a no-shine matte finish.",
+      "category": "makeup",
+      "thumbnail": "https://m.media-amazon.com/images/I/51HwyDYnD+L._AC_SX679_.jpg"
+    }
+  ]
+}
