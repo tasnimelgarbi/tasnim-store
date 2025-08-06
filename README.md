@@ -88,11 +88,8 @@ tasnim-store/
 
 Tasnim Elgarbi  
 Frontend Developer  
-https://github.com/tasnimelgarbi
-
----
-
-https://www.linkedin.com/in/tasnim-elgarbi-79793b2b8/
+github: (https://github.com/tasnimelgarbi)
+LinkedIn: (https://www.linkedin.com/in/tasnim-elgarbi-79793b2b8/)
 
 ---
 
